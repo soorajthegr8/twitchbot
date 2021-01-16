@@ -1,2 +1,1 @@
-# ChatBot
-a small change is made
+Twitch Bot
